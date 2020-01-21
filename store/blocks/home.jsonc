@@ -22,7 +22,9 @@
     "callToActionMode": "button",
     "callToActionText": "Explore",
     "callToActionUrl": "/sale/d",
-    "textAlignment": "center"
+    "textAlignment": "center",
+    "blockClass": "vintage",
+    "blockClass": "metal"
     }
   },
   "info-card#button-right": {
