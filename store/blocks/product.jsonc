@@ -82,11 +82,13 @@
 
   "sku-selector": {
     "props": {
-      "hideImpossibleCombinations": false,
-      "showVariationsLabels": true,
-      "showValueForVariation": "image",
       "initialSelection": "empty",
+      "showVariationsLabels": true,
       "showVariationsErrorMessage": true,
+      "hideImpossibleCombinations": false,
+      "showValueForVariation": "image"
+      
+      
     }
   },
 
