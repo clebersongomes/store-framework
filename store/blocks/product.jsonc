@@ -85,7 +85,7 @@
       "initialSelection": "empty",
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true,
-      "hideImpossibleCombinations": false,
+      "hideImpossibleCombinations": true,
       "showValueForVariation": "image"
       
       
