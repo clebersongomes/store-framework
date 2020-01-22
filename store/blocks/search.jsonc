@@ -15,8 +15,10 @@
 
   "search-result-layout.desktop" : {
     "props" : {
-      "showProductsCount" : true
-    },
+      "showProductsCount" : true,
+      "preventRouteChange" : true,
+      "pagination": "show-more"
+    }, 
 
     "children" : [
       "breadcrumb.search",
